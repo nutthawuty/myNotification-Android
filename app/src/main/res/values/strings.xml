@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myNotification</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_test">test</string>
+    <string name="channel_id">notificationSynergy</string>
+    <string name="channel_name">test notification</string>
+    <string name="channel_description">for test notification in local</string>
+</resources>
